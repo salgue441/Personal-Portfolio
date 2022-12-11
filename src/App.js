@@ -7,6 +7,9 @@ import ScrollToTop from "./Components/ScrollToTop/ScrollToTop"
 
 // Views
 import Home from "./Views/Home"
+import About from "./Views/About"
+import Projects from "./Views/Projects"
+import Contact from "./Views/Contact"
 
 function App() {
   return (
@@ -16,6 +19,9 @@ function App() {
 
       <Routes>
         <Route path="/" element={<Home />} />
+        <Route path="/about" element={<About />} />
+        <Route path="/projects" element={<Projects />} />
+        <Route path="/contact" element={<Contact />} />
       </Routes>
     </>
   )
