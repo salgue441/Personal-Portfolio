@@ -62,6 +62,7 @@ const ProjectSection = () => {
                 title={item.name}
                 img={item.img}
                 desc={item.desc}
+                link={item.link}
               />
             ))}
           </div>
