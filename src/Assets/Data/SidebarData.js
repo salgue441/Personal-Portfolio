@@ -1,7 +1,7 @@
 export const SidebarData = [
   {
     title: "Home",
-    path: "/home",
+    path: "/",
   },
   {
     title: "About",
