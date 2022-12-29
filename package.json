@@ -1,6 +1,6 @@
 {
-  "homepage": "http://salgue441.github.io/Personal-Portfolio/",
-  "name": "portfolio",
+  "homepage": "http://salgue441.github.io/personal-portfolio/",
+  "name": "personal-portfolio",
   "version": "0.1.0",
   "private": false,
   "dependencies": {
