@@ -8,7 +8,7 @@ import SwiperCore, { Navigation } from "swiper"
 import "swiper/swiper-bundle.min.css"
 
 // Data
-import { projectData } from "../../../Assets/Data/ProjectData"
+import { projectData } from "../../../Assets/Data/ProjectDataSlider"
 
 // Styles
 import { ProjectSectionStyle } from "./style"
